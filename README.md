@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics, engineering, math and science.
 - 🌱 I’m currently learning Python, SQL and Power BI
 - 💞️ I’m looking to collaborate on solving common problems
-- 📫 How to reach me @zinnat_maks on Instagram.
+- 📫 You can reach me @zinnat_maks on Instagram.
 
 <!---
 zinnatik24/zinnatik24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
